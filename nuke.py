@@ -9,7 +9,7 @@ token = "TOKEN"
 
 
 SPAM_CHANNEL =  ["Doraemon runs you" , "Get Banned" , "NUKED" , "oops Beamed","F IN CHAT Beamed You","Should Have Listened","Get beamed clowns","Nuked by Doraemon ","oops got nuked","I run you","Nuked by Doraemon","I run you","kinda got beamed by yourself"]
-SPAM_MESSAGE = ["@everyone You Got Nuked by Doraemon"]
+SPAM_MESSAGE = ["@everyone You Got Nuked by Hugo"]
 
 client = commands.Bot(command_prefix=",")
 
