@@ -27,7 +27,7 @@ async def on_ready():
 
 
  ''')
-   await client.change_presence(activity=discord.Game(name="Just got RickRolled"))
+   await client.change_presence(activity=discord.Game(name="Beating my meat"))
 
 @client.command()
 @commands.is_owner()
